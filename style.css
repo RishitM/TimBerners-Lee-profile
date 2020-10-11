@@ -1,0 +1,75 @@
+body {
+    text-align: center;
+    padding-top: 800px;
+    margin: 0px ;
+} 
+#Tim_1 {
+  border-radius: 400px ; 
+    width: 200px ;
+    height: 200px ;
+}
+#Home {
+    position: absolute ;
+    height: 800px ;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: linear-gradient(#00ff00 0% , #0000ff 100%) ;
+    color: floralwhite ;
+    display: table ;
+    width: 100% ;
+    height: 100% ;
+    z-index: 30 ;
+}
+.Home_div {
+    display: table-cell ;
+    position : relative ;
+    text-align: center ;
+    vertical-align: middle ;
+}
+#BioP {
+    max-width: 700px;
+    margin: 25px auto;
+    line-height: 1.3 ;
+    font-size: 25px ;
+    font-family: 'Indie Flower', cursive;
+}
+.menu {
+    list-style: none ;
+    position: absolute ;
+    top: 10px ;
+    right: 30px ;
+    cursor: pointer ;
+    z-index: 50 ;
+}
+.links {
+    float: left;
+    padding-bottom: 5px;
+    padding-top: 5px ;
+    padding-left: 9px ;
+    padding-right: 9px ;
+    color: white ;
+    font-family: 'Sansita Swashed', cursive;
+    font-size: 30px ;
+}
+#Home_h1 {
+    font-size: 40px ;
+    font-family: 'Indie Flower', cursive;
+}
+#name {
+    font-size: 45px ;
+    font-family: 'Dancing Script', cursive;
+}
+h2 {
+    font-size: 35px ;
+    font-family: 'Roboto Mono', monospace;
+}
+h1 {
+    font-family: 'Indie Flower', cursive;
+    font-size: 35px ;
+    
+}
+#Bio {
+    background: linear-gradient(#0000ff  0% , #ff0000 100%) ;
+}
