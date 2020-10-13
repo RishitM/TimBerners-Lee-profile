@@ -71,5 +71,8 @@ h1 {
     
 }
 #Bio {
-    background: linear-gradient(#0000ff  0% , #ff0000 100%) ;
+    background: linear-gradient(#0000ff  30% , #ff0000 100%) ;
+}
+html {
+    scroll-behavior: smooth;
 }
